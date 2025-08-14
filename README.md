@@ -1,2 +1,2 @@
 # Real-Time-Sensor-Data-Aggregator-Java-Project-1
-Designed and implemented a multithreaded Java application to collect and process simulated IoT sensor data (temperature, motion, and pressure) in real time.
+Designed and implemented a multithreaded Java application to collect and process simulated IoT sensor data (temperature, motion, and pressure) in real time. Shows multi-threading and real-time data handling — important for defense/data-driven applications. Clean OOP design with encapsulated data classes. Simulates the aggregation and monitoring of operational data.
